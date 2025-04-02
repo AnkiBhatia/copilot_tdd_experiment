@@ -5,6 +5,4 @@ sqlalchemy
 pytest
 httpx
 python-dotenv
-asyncpg  # If using PostgreSQL
-sqlite  # If using SQLite, optional
-```
+sqlite  
