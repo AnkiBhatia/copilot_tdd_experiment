@@ -1,8 +1,7 @@
-FastAPI
+fastapi
 uvicorn
 pydantic
 sqlalchemy
 pytest
 httpx
 python-dotenv
-sqlite  

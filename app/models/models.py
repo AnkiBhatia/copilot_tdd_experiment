@@ -20,3 +20,9 @@ class MaintenanceSchedule(BaseModel):
     equipment_id: int
     due_date: datetime
     maintenance_type: str
+
+class EquipmentRegistration(BaseModel):
+    id: int
+    org_id: int
+    dealer_dog_id: int
+    dealer_cog_id: int
